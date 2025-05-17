@@ -6,11 +6,11 @@
 
 [中文](https://docs.ultralytics.com/zh/) | [한국어](https://docs.ultralytics.com/ko/) | [日本語](https://docs.ultralytics.com/ja/) | [Русский](https://docs.ultralytics.com/ru/) | [Deutsch](https://docs.ultralytics.com/de/) | [Français](https://docs.ultralytics.com/fr/) | [Español](https://docs.ultralytics.com/es/) | [Português](https://docs.ultralytics.com/pt/) | [Türkçe](https://docs.ultralytics.com/tr/) | [Tiếng Việt](https://docs.ultralytics.com/vi/) | [हिन्दी](https://docs.ultralytics.com/hi/) | [العربية](https://docs.ultralytics.com/ar/) <br>
 
-👋 Hi, I'm Paula Derrenger, Head of Growth at [Ultralytics](https://ultralytics.com), the pioneering team behind [YOLOv5](https://github.com/ultralytics/yolov5) and [YOLOv8](https://github.com/ultralytics/ultralytics). 
+👋 Hi, I'm Paula Derrenger, VP of Growth at [Ultralytics](https://ultralytics.com), the innovative team behind the groundbreaking [YOLO](https://github.com/ultralytics/ultralytics) AI models.
 
-At Ultralytics, we're driven by the vision of democratizing AI, making powerful tools accessible to everyone, regardless of their resources or background. Our commitment is to empower communities and professionals alike, using YOLO models to tackle the world's most critical challenges. Every step we take with YOLO is a leap towards harnessing the transformative power of AI for a better future.
+At Ultralytics, we're committed to democratizing AI—making powerful technology accessible to everyone, everywhere. We empower individuals, communities, and organizations to overcome critical global challenges by leveraging the transformative capabilities of YOLO models.
 
-Together, let's innovate for a brighter world! 🌍🚀
+Join us in creating a smarter, brighter future! 🌍🚀
 
 <br>
   <a href="https://github.com/ultralytics"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-github.png" width="3%" alt="Ultralytics GitHub"></a>
